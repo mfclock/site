@@ -1,5 +1,8 @@
-div.floatleft{
+.floatleft{
   float:left;
+}
+
+div.floatleft{
   width:48%;
   padding:1%;
 }
