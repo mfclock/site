@@ -6,3 +6,11 @@ div.floatleft{
   width:48%;
   padding:1%;
 }
+
+form.pageclip-form input[type=text]{
+  width:20em;
+}
+
+form.pageclip-form textarea{
+  width:40.45em;
+}
